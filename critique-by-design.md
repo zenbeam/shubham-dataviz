@@ -4,12 +4,15 @@
 
 ## Step one: the visualization
 
-I selected a data visualization published by *The Economist* titled **"Paying Through the Nose"**, which shows the relative harm of different drugs in Britain. The graphic comes from a 2019 article exploring which substances cause the most harm when accounting for impacts on both users and others. I picked this visualization because I noticed that the topic itself is meaningful and I wanted to see whether the design helped or hindered the message. This writeup started from the course template for the Critique by Design assignment. fileciteturn0file1
+I selected a data visualization published by The Economist titled **"Paying Through the Nose"**, which shows the relative harm of different drugs in Britain. The graphic comes from a 2019 article exploring which substances cause the most harm when accounting for impacts on both users and others. I picked this visualization because I noticed that the topic itself is meaningful and I wanted to see whether the design helped or hindered the message. This writeup started from the course template for the Critique by Design assignment. 
 
 **Original visualization**  
-Image: https://www.economist.com/cdn-cgi/image/width=960,quality=80,format=auto/sites/default/files/images/2019/06/articles/main/20190629_woc294.png  
-Article: https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug  
-Data source: https://data.world/makeovermonday/2025w36-drug-harms-in-the-uk  
+![Original Economist Graphic](https://www.economist.com/cdn-cgi/image/width=960,quality=80,format=auto/sites/default/files/images/2019/06/articles/main/20190629_woc294.png)
+
+[Article](https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug)
+
+[Data source](https://data.world/makeovermonday/2025w36-drug-harms-in-the-uk)
+
 
 I selected this chart because I feel the subject is socially important, and I wondered whether a redesign could help general readers see the key insight more clearly: that alcohol causes more total harm than substances often assumed to be more dangerous.
 
@@ -50,7 +53,7 @@ At this point I still kept all six harm categories, but I started to feel that e
 
 ### User interviews
 
-I prepared a short script to focus on broad comprehension and first impressions. The table below is adapted from the HTML feedback file and summarizes responses from three different participants. fileciteturn0file0
+I prepared a short script to focus on broad comprehension and first impressions. The table below is adapted from the HTML feedback file and summarizes responses from three different participants. 
 
 ### Interview feedback
 
@@ -87,20 +90,24 @@ For the final visualization, I pivoted from the incremental sketch and built a n
 - I used a diverging bar chart so users and others split cleanly left and right and share a common baseline.  
 - I grouped drugs wherever possible into categories such as "Stimulants" or "Psychedelics", which several interviewees found helpful.  
 - I revised the title so the main point is explicit and aligned it with the ranking on the chart.  
-- I added labels directly inside bars so readers do not need to look back at a legend to interpret values.
 
 ### Reflection
 
-I liked seeing how my early instincts aligned with user comments. I noticed that simplifying the chart did not weaken the story but actually made it stronger. I feel the diverging design communicates both who is harmed and by how much, without overwhelming readers. The process reminded me that polishing the original form can be a useful first step, but sometimes the most helpful move is to change the form entirely.
+I liked seeing how my early instincts aligned with user comments. I noticed that simplifying the chart did not weaken the story but actually made it stronger. I feel the diverging design communicates both who is harmed and by how much, without overwhelming readers. The process reminded me that polishing the original form can be a useful first step, but sometimes the most helpful move is to change the form entirely. I also realized how often design problems come from structural clutter rather than aesthetic choices, and how a small shift in layout can reshape the entire narrative. 
+
+I think this exercise made me more aware of how readers scan visuals, not how designers intend them to be read. I noticed that every redesign choice forces a tradeoff, and the best version is usually the one that respects attention rather than detail.
+
+Overall, I feel I learned how to balance nuance with clarity in a way that serves the reader rather than the data alone.
 
 ---
 
 ## References
 
-- Original graphic from *The Economist*: https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug  
-- Original image: https://www.economist.com/cdn-cgi/image/width=960,quality=80,format=auto/sites/default/files/images/2019/06/articles/main/20190629_woc294.png  
-- Dataset: https://data.world/makeovermonday/2025w36-drug-harms-in-the-uk  
-- Inspiration for diverging bar format: https://www.datylon.com/resources/chart-library/diverging-bar-chart  
+- Original graphic from *The Economist*: [https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug](https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug)
+
+- Dataset: [https://data.world/makeovermonday/2025w36-drug-harms-in-the-uk](https://data.world/makeovermonday/2025w36-drug-harms-in-the-uk)
+
+- Inspiration for diverging bar format: [https://www.datylon.com/resources/chart-library/diverging-bar-chart](https://www.datylon.com/resources/chart-library/diverging-bar-chart)
 
 ---
 
