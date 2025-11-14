@@ -14,7 +14,7 @@ I selected a data visualization published by The Economist titled **"Paying Thro
 [Data source](https://data.world/makeovermonday/2025w36-drug-harms-in-the-uk)
 
 
-I selected this chart because I feel the subject is socially important, and I wondered whether a redesign could help general readers see the key insight more clearly: that alcohol causes more total harm than substances often assumed to be more dangerous.
+I selected this chart because I feel the subject is socially important, and I wondered whether a redesign could help general readers see the key insight more clearly, i.e. that alcohol causes more total harm than substances often assumed to be more dangerous.
 
 ---
 
@@ -53,7 +53,7 @@ At this point I still kept all six harm categories, but I started to feel that e
 
 ### User interviews
 
-I prepared a short script to focus on broad comprehension and first impressions. The table below is adapted from the HTML feedback file and summarizes responses from three different participants. 
+I prepared a short script to focus on broad comprehension and first impressions. The table below summarizes the most striking responses from three different participants. 
 
 ### Interview feedback
 
@@ -72,7 +72,9 @@ A few patterns stood out to me:
 - Two people felt the number of drugs shown was overwhelming.  
 - All three suggested collapsing categories to "harm to users vs harm to others".
 
-From this feedback, I realized the redesign should focus on clarity, simplicity, and narrative framing. It also convinced me that I should move beyond a refined stacked bar and try a different chart type.
+From this feedback, I realized the redesign should focus on clarity, simplicity, and narrative framing. It also convinced me that I should move beyond a refined stacked bar and try a different chart type. 
+
+PS: I was hesitating to remove detail at this point, since personally, I'm a nerd for visualizations that you could spend hours on and keep finding interesting facts hidden. However, the task at hand demanded simplicity and focus over extraneous technical details like how mortality of cannabis is lower than almost all drugs on the chart or how apparently LSD and Mushrooms users cause almost no harm to others.
 
 ---
 
