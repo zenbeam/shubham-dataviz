@@ -84,7 +84,7 @@ The data captures reported funding only. Stealth companies may have raised capit
 
 | Name | URL | Description |
 |------|-----|-------------|
-| CB Insights AI/ML Companies Dataset | [GitHub Repository](https://github.com/zenbeam/shubham-dataviz/Venture_Backed_AI_Companies_Founded_Since_2024.csv) | Complete dataset of 940 venture-backed AI startups founded since January 1, 2024 with minimum $250K funding. Includes company name, location, funding details, investor lists, valuations, and industry classifications. |
+| CB Insights AI/ML Companies Dataset | [GitHub Repository](Venture_Backed_AI_Companies_Founded_Since_2024.csv) | Complete dataset of 940 venture-backed AI startups founded since January 1, 2024 with minimum $250K funding. Includes company name, location, funding details, investor lists, valuations, and industry classifications. |
 
 
 # Method and medium
