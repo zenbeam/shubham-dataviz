@@ -28,7 +28,7 @@ The story moves from geography to finance to industry concentration. Geographic 
 
 ### Sketch 1: Geographic Distribution of Funded Startups
 
-![Top 15 Cities](sketch_1_cities_final.png)
+![Top 15 Cities](sketch_1_cities.png)
 
 This horizontal bar chart shows the top 15 cities by startup count using distinct pastel colors for visual clarity. Bay Area appears in red at 277 startups after consolidating San Francisco, Menlo Park, Palo Alto, Mountain View, Stanford, Berkeley, San Mateo, Sunnyvale, Redwood City, and Santa Clara. New York follows with 69, then London with 39. The color palette ensures adjacent cities remain visually distinct to prevent reader confusion. 
 
