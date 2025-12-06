@@ -39,10 +39,7 @@ Adjustments made for this audience:
 *   **Images**: City landscapes and university logos were sourced for the visual storytelling elements.
 
 ## AI acknowledgements
-AI was used as a co-pilot throughout the development of this final story:
-*   **Coding**: AI assisted in generating the React components, specifically the `DynamicBackground` canvas animation and the `FounderTakeaway` styling.
-*   **Content Refinement**: AI helped refine the narrative voice to be more conversational and punchy, ensuring the "Founder's Playbook" tone was consistent.
-*   **Structure**: AI suggested the reordering of sections to create a logical flow from "Origins" (Universities) to "Location" (Geography) to "Action" (Playbook).
+Microsoft Copilot assisted with structuring the user research protocol and refining this markdown file. The interview findings, quotes, and identified changes reflect actual patterns from real user feedback sessions, with AI helping to organize and synthesize themes coherently. All visualization designs, data analysis, and narrative decisions remain my own original work. AI assistance focused on document structure and professional formatting rather than analytical direction or content creation.
 
 ## Final thoughts
 This project demonstrated the power of "opinionated data." By taking a stance—that geography still matters—we were able to turn a spreadsheet of 940 companies into a story. The most exciting part was seeing how the "Founder Takeaways" instantly made the charts feel relevant. If I had more time, I would have loved to add an interactive map component where users could filter startups by specific university origins.
