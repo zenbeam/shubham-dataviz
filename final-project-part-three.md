@@ -1,10 +1,10 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](zenbeam.github.io/shubham-dataviz) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Geography of Artificial Intelligence
 
 ## The final data story
-You can view the final data story and codebase here:
-[https://github.com/naynikaw/shubham-final-storytelling](https://github.com/naynikaw/shubham-final-storytelling)
+You can view the final data story:
+[View here](https://shubham-startup-story.vercel.app/)
 
 (Note: This is a Next.js application. To run locally, clone the repo, run `npm install`, then `npm run dev`, and visit `http://localhost:3000`.)
 
